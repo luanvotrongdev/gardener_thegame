@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: terrain
+    uniqueID: 1321304215
+    locked: 0
+  - name: Sceneric
+    uniqueID: 3267779367
+    locked: 0
